@@ -5,10 +5,10 @@ This is a simple API automation testing project for Reqres API using Katalon Stu
 https://reqres.in
 
 ## Endpoints
-GET list users     (/api/users?page=1)
-GET single user    (/api/users/2)
-PUT update user     (/api/users/2)
-POST register user  (/api/register)  email value taken from GET single user response
+- GET list users     (/api/users?page=1)
+- GET single user    (/api/users/2)
+- PUT update user     (/api/users/2)
+- POST register user  (/api/register)  email value taken from GET single user response
 
 ## How to Run This Project
 - Clone this project
